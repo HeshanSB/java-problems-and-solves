@@ -1,3 +1,15 @@
+/*8. Write a JAVA program to calculate the average of numbers based on following options. 
+ Average of two integer numbers 
+ Average of three integer numbers 
+ Average of an integer number and a float number 
+ Average of two integer numbers and a float number 
+ Average of three float numbers 
+ Average of two float numbers and two integer values 
+ Average of two double values 
+ Average of three numbers of type integer, double and float 
+ 
+You must use overloaded methods to perform the required operations.*/                           
+ 
 class Average{
 	double av;
 	Average(int n1,int n2){
