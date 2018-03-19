@@ -1,3 +1,5 @@
+/*Write a JAVA program to calculate the surface area and the volume of a cube. You must define separate operations 
+to calculate the surface area and the volume.*/ 
 import java.util.Scanner;
 class cube{
 	int length;
