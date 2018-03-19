@@ -1,3 +1,25 @@
+/*Q 5.  Write a java class called Appointment.java representing an appointment you have with a person. 
+This class should store three bits of information about an appointment: 
+ With whom the appointment is 
+ Day of the appointment 
+ Appointment duration 
+The Appointment class should have six methods 
+ setName() 
+ getName() 
+ setDay() 
+ getDay() 
+ setDuration() 
+ getDuration() 
+Let the user create two Appointment objects and then prints appointment details. 
+Sample output: 
+Enter appointment one person: Chamara Peris 
+Enter day of the appointment one: Monday 
+Enter the duration of appointment one: 1 
+Enter appointment two person: Kasun Kalhara 
+Enter day of the appointment two: Tuesday 
+Enter the duration of appointment two: 1.5 
+You have a 1 hour appointment on Monday with Chamara Peris. 
+You have a 1.5 hour appointment on Tuesday with Kasun Kalhara.*/ 
 import java.util.Scanner;
 class Appointment{
 	String person;
