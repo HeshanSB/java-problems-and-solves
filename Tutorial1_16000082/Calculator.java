@@ -1,3 +1,10 @@
+/*Write a Java program to define a calculator. The calculator should be able to store two numbers and perform following 
+operations on them.               
+ Add 
+ Subtract 
+ Multiply 
+ Divide */
+ 
 import java.util.Scanner;
 class Calculator{
 	double num1;
