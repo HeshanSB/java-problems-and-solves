@@ -1,3 +1,6 @@
+/* Create a Point.java class and add a functionality to, 
+a. Get the distance from the root 
+b. Move a point and how can we get the distance of two points? */
 class Point{
 	int num1;
 	int num2;
