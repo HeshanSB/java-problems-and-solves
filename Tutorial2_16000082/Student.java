@@ -1,23 +1,23 @@
-/*Attributes – Registration Number , Gender (M/F), Name, Date of birth, 
+/*Attributes â€“ Registration Number , Gender (M/F), Name, Date of birth, 
 Marks of three subjects (Computer science, Statistics, Mathematics) , Average,  Grade 
  
 Methods  
-a) calculateStudentAverage() – Calculate the average of three subjects. 
-b) findGrade() – Find the grade of the student based on the average. 
-100 <= Average <= 75  “A” 
-75 < Average <= 65  ”B” 
-65 < Average <= 55  “C” 
-55 < Average <= 45  ”D” 
-Average < 45   “F” 
-c) displayInformation() – Display all the relevant information of a particular student. 
-d) calculateSchoolAverage(array stu) – Calculates the overall average of all three subjects separately. 
-e) displayMessage() – If the overall averages of all three subjects are greater than 50 then it should 
-display “Excellent”. Overall average for only two subjects are greater than 50 then it should display 
-“Improve” Otherwise it should display “Poor”. 
-f) findBatchTop(array stu) The one who has the highest average is considered to be the “Batch top”. 
-Display the relevant information of the batch top by calling the ‘displayInformation()’ method.  
-g) findHighestMarks(arrray stu) – The method finds the highest marks of each subject separately. 
-Then displays the relevant details of the student who gained the highest marks. 
+a) calculateStudentAverage() â€“ Calculate the average of three subjects. 
+b) findGrade() â€“ Find the grade of the student based on the average. 
+100 <= Average <= 75  â€œAâ€ 
+75 < Average <= 65  â€Bâ€ 
+65 < Average <= 55  â€œCâ€ 
+55 < Average <= 45  â€Dâ€ 
+Average < 45   â€œFâ€ 
+c) displayInformation() â€“ Display all the relevant information of a particular student. 
+d) calculateSchoolAverage(array stu) â€“ Calculates the overall average of all three subjects separately. 
+e) displayMessage() â€“ If the overall averages of all three subjects are greater than 50 then it should 
+display â€œExcellentâ€. Overall average for only two subjects are greater than 50 then it should display 
+â€œImproveâ€ Otherwise it should display â€œPoorâ€. 
+f) findBatchTop(array stu) The one who has the highest average is considered to be the â€œBatch topâ€. 
+Display the relevant information of the batch top by calling the â€˜displayInformation()â€™ method.  
+g) findHighestMarks(arrray stu) â€“ The method finds the highest marks of each subject separately. 
+Then displays the relevant details of the student who gained the highest marks. */
  
 class Student{
 	public String rNo;
