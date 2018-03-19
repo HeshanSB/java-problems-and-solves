@@ -1,3 +1,5 @@
+/*Create a class for a Die. It should change its value randomly each time it rolls. Extend the program into two dice game.
+Roll two dice and if the total gets 7, you win. */
 import java.util.Random;
 class Die{
 	int value;
