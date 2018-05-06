@@ -1,4 +1,4 @@
-\*right shift and left shift inn java*\
+\\right shift and left shift inn java
 import java.util.Scanner;
 class Assignment2{
 	public String octalToBinary(int n){
